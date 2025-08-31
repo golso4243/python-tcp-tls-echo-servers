@@ -7,6 +7,10 @@ Designed for networking labs and packet capture analysis in Wireshark to demonst
 
 <br>
 
+Full lab walk-through on [Medium](https://medium.com/@gage.a.olson/observing-plaintext-vs-encrypted-traffic-with-python-and-wireshark-a-hands-on-lab-af007c3461a5).
+
+<br>
+
 ## Features
 
 - **TCP Echo Server** → echoes data over plaintext TCP.
